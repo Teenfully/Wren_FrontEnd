@@ -10,9 +10,9 @@ const WelcomePage: React.FC = () => {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading}>Welcome to AI Therapist</h1>
+      <h1 className={styles.heading}>Welcome to Wren</h1>
       <p className={styles.introText}>
-        Your journey to better mental health begins here. Let's get started!
+        A life coach that is always here for you.
       </p>
       <button className={styles.getStartedButton} onClick={handleGetStarted}>
         Get Started

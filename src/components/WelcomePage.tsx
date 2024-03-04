@@ -1,6 +1,6 @@
 // WelcomePage.tsx
 import React from "react";
-import styles from "./WelcomePage.module.css"; // Assuming you are using CSS modules
+import styles from "./WelcomePage.module.css";
 
 const WelcomePage: React.FC = () => {
   const handleGetStarted = () => {

@@ -1,0 +1,40 @@
+/* WelcomePage.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f4f8;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 2.5rem;
+  }
+  
+  .introText {
+    margin-bottom: 30px;
+    color: #666;
+    font-size: 1.2rem;
+    max-width: 600px;
+  }
+  
+  .getStartedButton {
+    font-size: 1rem;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .getStartedButton:hover {
+    background-color: #0056b3;
+  }
+  

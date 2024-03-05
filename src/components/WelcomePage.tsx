@@ -10,7 +10,7 @@ const WelcomePage: React.FC = () => {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading}>Welcome to Wren</h1>
+      <h1 className={styles.heading}>Hello!</h1>
       <p className={styles.introText}>
         A life coach that is always here for you.
       </p>

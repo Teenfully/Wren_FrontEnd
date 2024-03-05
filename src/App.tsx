@@ -1,11 +1,11 @@
 // App.tsx
 import React from "react";
-import WelcomePage from "./components/WelcomePage"; // Updated import path
+import MainPage from "./components/MainPage"; // Adjust the path according to your file structure
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <WelcomePage />
+      <MainPage />
       {/* Other components or routes */}
     </div>
   );

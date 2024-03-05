@@ -9,6 +9,14 @@ If you have cloned this repo, make sure to run the following 2 things on the ter
 npm install vite --save-dev
 npm run dev
 
+If you are working on this file and you already have the repo use:
+
+npm run dev
+
+to start the local development enviroment (to see what you are doing)
+
+The following the offical vite README:
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
